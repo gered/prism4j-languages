@@ -10,6 +10,7 @@
 
     <name>Prism4j Pre-packaged Languages</name>
     <description>An assortment of pre-packaged language grammars for use with Prism4j.</description>
+    <url>https://github.com/gered/prism4j-languages</url>
 
     <licenses>
         <license>
