@@ -4,7 +4,7 @@
 
     <groupId>ca.blarg</groupId>
     <artifactId>prism4j-languages</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0-SNAPSHOT</version>
 
     <name>Prism4j Pre-packaged Languages</name>
     <description>An assortment of pre-packaged language grammars for use with Prism4j.</description>
@@ -21,7 +21,7 @@
         <url>git@github.com:gered/prism4j-languages.git</url>
         <connection>scm:git:${project.scm.url}</connection>
         <developerConnection>scm:git:${project.scm.url}</developerConnection>
-        <tag>v1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
